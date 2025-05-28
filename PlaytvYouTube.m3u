@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title=" Play Tv | YouTube
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp"  
+#EXTGRP:Play Tv | YouTube
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:0 tvg-rec="3", A HABER 
