@@ -446,6 +446,12 @@ http://a3fc2fc5.rossteleccom.net/iptv/8T2MH6W8ZDP8PZXZ4RMX7P6Q/6802/index.m3u8
 #EXTINF:0 tvg-rec="3",beIN Gurme HD TR
 #EXTGRP:Play Tv | Türk
 http://a3fc2fc5.rossteleccom.net/iptv/8T2MH6W8ZDP8PZXZ4RMX7P6Q/6804/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Türk  ", Fx 
+https://saran-live.ercdn.net/fx/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sinema TV HD TR
 #EXTGRP:Play Tv | Türk
 http://a3fc2fc5.rossteleccom.net/iptv/8T2MH6W8ZDP8PZXZ4RMX7P6Q/6806/index.m3u8
