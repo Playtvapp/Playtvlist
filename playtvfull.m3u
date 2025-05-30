@@ -255,12 +255,7 @@ https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTGRP:Play Tv | Türk
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
-
-
-
-
-
-#EXTINF:0 tvg-rec="3",Fx HD TR
+#EXTINF:0 tvg-rec="3",Fx TR
 #EXTGRP:Play Tv | Türk
 https://saran-live.ercdn.net/fx/index.m3u8
 
