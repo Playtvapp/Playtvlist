@@ -2351,3 +2351,111 @@ http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/31124/index.m3u8
 http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/31126/index.m3u8
 #EXTINF:0 tvg-rec="0",Willow HD US
 #EXTGRP:Play Tv  | USA
+
+
+
+
+
+#EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9310/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 1 HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/2160/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9293/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9283/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9335/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9248/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9314/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9308/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky History HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/16037/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Football HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9289/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Cricket HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9258/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9334/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/2505/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/9155/index.m3u8
+#EXTINF:0 tvg-rec="0",ITVBe UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/19190/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/2506/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 1 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/6555/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/6556/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 3 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/6564/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/6566/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Premier League HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/7335/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Football HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/7336/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/7337/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/7339/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Action HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/7340/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Racing HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/7341/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports F1 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/7342/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Cricket HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/7343/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/7344/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV1 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/19185/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV2 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/19186/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV3 +1 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/19187/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV4 +1 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/19188/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV4 UK
+#EXTGRP:Play Tv | United Kingdom
+http://8b928211.rossteleccom.net/iptv/6UQEBT2GNEYQLG/19189/index.m3u8
+
