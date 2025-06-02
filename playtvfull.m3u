@@ -1000,9 +1000,9 @@ https://deneme123.parisiptv1.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
 
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; 23117RA68G Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Hnlcw/4.0 Chrome/136.0.7103.125 Mobile Safari/537.36"
-#EXTINF:0 tvg-rec="3", beIN Sports 1
+#EXTINF:0 tvg-rec="3", beIN Sports 1h
 #EXTGRP:Play Tv | Play Sports Liste 2  
-https://lll.istekbet3.tv/yayinzirve.m3u8
+https://lll.istekbet3.tv/yayinzirve.m3u8|Referer=https://www.jestyayin941.com/
 
 
 #EXTINF:0 tvg-rec="3", beIN Sports 2
