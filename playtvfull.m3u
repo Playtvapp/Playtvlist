@@ -145,6 +145,20 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 https://trn03.tulix.tv/gt-fbtv/playlist.m3u8
 
 
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://izmottvsc13.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170528/001300/XTV100000548/a9f70506-e723-4a83-9179-410ac253461d.png" tvg-name="Halk TV" group-title="Play Tv | Ulusal", Halk Tv
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="Arabesk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Arabesk
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
 
