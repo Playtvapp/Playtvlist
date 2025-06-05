@@ -164,19 +164,19 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", beIN Box Office 1",
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="1" group-title="Play Tv | Sinema", beIN Box Office 1",
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6744/index.m3u8
 
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", beIN Box Office 2",
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="2" group-title="Play Tv | Sinema", beIN Box Office 2",
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6745/index.m3u8
 
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", beIN Box Office 3",
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="3" group-title="Play Tv | Sinema", beIN Box Office 3",
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6743/index.m3u8
 
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", DiziSmart Premium ",
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="4" group-title="Play Tv | Sinema", DiziSmart Premium ",
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6802/index.m3u8
 
 
@@ -186,12 +186,12 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6806/index.m3u8
 
 
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", Movie Smart Turk ",
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="5" group-title="Play Tv | Sinema", Movie Smart Turk ",
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6807/index.m3u8
 
 
 
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", Movie Smart Classic ",
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="6" group-title="Play Tv | Sinema", Movie Smart Classic ",
 https://kerimmkirac-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3597292408/index.m3u8
 
 
