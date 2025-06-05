@@ -164,6 +164,12 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 
+
+#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", Fx
+https://saran-live.ercdn.net/fx/index.m3u8
+
+
+
 #EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 1" group-title="Play Tv | Sinema", beIN Box Office 1
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6744/index.m3u8
 
@@ -177,14 +183,30 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6743/index.m3u8
 
 
 
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series 1
+https://tinyurl.com/ycy3wnu3
 
 
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series 2
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 2
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6814/index.m3u8
 
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series Comedy 
+
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 3
+https://tinyurl.com/3utjxv67
+
+
+
+
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 4
+https://tinyurl.com/2vny9243
+
+
+
+
+
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series Comedy 
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6881/index.m3u8
 
 
@@ -260,7 +282,6 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6807/index.m3u8
 
 #EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", Movie Smart Classic 
 https://tinyurl.com/44eetvrj
-
 
 
 
