@@ -201,6 +201,10 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6882/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6877/index.m3u8
 
 
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Movies Action 2
+https://tinyurl.com/47nj4vvs
+
+
 
 #EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Family
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6878/index.m3u8
@@ -219,6 +223,14 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6879/index.m3u8
 
 
 
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Stars
+https://tinyurl.com/5ect5tkj
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Türk 
+https://tinyurl.com/mr7wfnzm
+
 
 
 
@@ -227,6 +239,10 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6879/index.m3u8
 
 #EXTINF:1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="DiziSmart Premium" group-title="Play Tv | Sinema", DiziSmart Premium 
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6802/index.m3u8
+
+
+#EXTINF:1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="DiziSmart Max" group-title="Play Tv | Sinema", DiziSmart Max 
+https://tinyurl.com/5n7txspm
 
 
 
@@ -244,8 +260,6 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6807/index.m3u8
 
 #EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", Movie Smart Classic 
 https://tinyurl.com/44eetvrj
-
-
 
 
 
