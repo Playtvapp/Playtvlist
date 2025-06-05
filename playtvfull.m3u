@@ -176,6 +176,55 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6745/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6743/index.m3u8
 
 
+
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series 2
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6814/index.m3u8
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series Comedy 
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6881/index.m3u8
+
+
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series Drama 
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6882/index.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Action
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6877/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Family
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6878/index.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Premiere
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6880/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Premiere 2
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6879/index.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="DiziSmart Premium" group-title="Play Tv | Sinema", DiziSmart Premium 
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6802/index.m3u8
 
@@ -184,6 +233,8 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6802/index.m3u8
 #EXTINF:1 tvg-id="Sinema TV" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Sinema TV" group-title="Play Tv | Sinema", Sinema TV 
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6806/index.m3u8
 
+#EXTINF:1 tvg-id="Sinema TV" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Sinema TV" group-title="Play Tv | Sinema", Sinema Aksiyon 2
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6812/index.m3u8
 
 
 #EXTINF:1 tvg-id="Movie Smart Turk " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Turk " group-title="Play Tv | Sinema", Movie Smart Turk 
@@ -193,8 +244,6 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6807/index.m3u8
 
 #EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", Movie Smart Classic 
 https://kerimmkirac-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3597292408/index.m3u8
-
-
 
 
 
