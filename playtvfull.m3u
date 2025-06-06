@@ -382,6 +382,63 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 
 
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", TRT Çocuk 
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", TRT Diyanet Çocuk 
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Baby TV 
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Disney Junior
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Minika Go 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Minika Çocuk 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Duck TV 
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Cartoon Network
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6846/index.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Nicktoons
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6848/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Nick Jr.
+https://tinyurl.com/4z2p3v78
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Cartoonito
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6850/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="Arabesk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Arabesk
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
 
