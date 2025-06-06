@@ -68,53 +68,53 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal", TV 8,5
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal", TV 8,5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal", TV 8 İnt
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal", TV 8 İnt
 http://185.234.111.229:8000/play/a01x
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal", Beyaz TV 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal", Beyaz TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  360 Tv
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  360 Tv
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal", Teve 2
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal", Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  Kanal 7
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  Kanal 7 Avrupa
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  A2
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
 
 
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  TYT TÜRK
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  TYT TÜRK
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
 
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  CNBC-E
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  CNBC-E
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 
 
 
-EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  TRT Türk 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" tvg-name="" tvg-language="Turkey" group-title="Play Tv | Ulusal",  TRT Türk 
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 
