@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 
@@ -7,7 +6,7 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Ulusal",TRT 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Ulusal",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 
 
@@ -122,1143 +121,93 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", TRT Spor 
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:1 tvg-id="Play Tv" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Play Tv" group-title="Play Tv | Sinema", Play Tv
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 
-#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", Tabii Tv
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", TRT Nostalji 
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 
 
-#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", Fx
-https://saran-live.ercdn.net/fx/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", Sports TV 
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
 
-#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 1" group-title="Play Tv | Sinema", beIN Box Office 1
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6744/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", TR Spor TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 
-#EXTINF:1 tvg-id="beIN Box Office 2" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 2" group-title="Play Tv | Sinema", beIN Box Office 2
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6745/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 
-#EXTINF:1 tvg-id="beIN Box Office 3" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 3" group-title="Play Tv | Sinema", beIN Box Office 3
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6743/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", TJK 
+http://tjktv.ercdn.net/tjktv.m3u8
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", TJK Yurt Dışı 
+https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series 1
-https://tinyurl.com/ycy3wnu3
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", Tay TV 
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 2
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6814/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", Smart Spor 
+https://deneme123.parisiptv1.workers.dev/smartspor1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 3
-https://tinyurl.com/3utjxv67
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", Smart Spor 2
+https://deneme123.parisiptv1.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", Eurosport 1
+https://deneme123.parisiptv1.workers.dev/eurosport1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 4
-https://tinyurl.com/2vny9243
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", Eurosport 2
+https://deneme123.parisiptv1.workers.dev/eurosport2/tracks-v1a1/mono.m3u8
 
 
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series Comedy 
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6881/index.m3u8
 
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", Monster Jam
+https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
 
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", TNA Wrestling
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series Drama 
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6882/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", PFL MMA
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
 
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", Bilardo TV 
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Action
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6877/index.m3u8
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Movies Action 2
-https://tinyurl.com/47nj4vvs
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", Solh Sport
+https://solhtvhls.wns.live/hls/stream.m3u8
 
 
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Spor ", NBA TV 
+http://212.102.60.231/NBA_TV/index.m3u8
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Family
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6878/index.m3u8
 
 
-
-
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Premiere
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6880/index.m3u8
-
-
-
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Premiere 2
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6879/index.m3u8
-
-
-
-
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Stars
-https://tinyurl.com/5ect5tkj
-
-
-
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Türk 
-https://tinyurl.com/mr7wfnzm
-
-
-
-
-
-#EXTINF:1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="DiziSmart Premium" group-title="Play Tv | Sinema", DiziSmart Premium 
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6802/index.m3u8
-
-
-#EXTINF:1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="DiziSmart Max" group-title="Play Tv | Sinema", DiziSmart Max 
-https://tinyurl.com/5n7txspm
-
-
-
-#EXTINF:1 tvg-id="Sinema TV" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Sinema TV" group-title="Play Tv | Sinema", Sinema TV 
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6806/index.m3u8
-
-#EXTINF:1 tvg-id="Sinema TV" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Sinema TV" group-title="Play Tv | Sinema", Sinema Aksiyon 2
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6812/index.m3u8
-
-
-#EXTINF:1 tvg-id="Movie Smart Turk " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Turk " group-title="Play Tv | Sinema", Movie Smart Turk 
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6807/index.m3u8
-
-
-
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", Movie Smart Classic 
-https://tinyurl.com/44eetvrj
-
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", TRT Belgesel 
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Dmax 
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", TLC 
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", TGRT Belgesel 
-https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Çiftçi Tv
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Yaban Tv
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6787/index.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", National Geographic 
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", National Geographic Wild
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", beIN Gurme
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6804/index.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", BBC Earth 
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6854/index.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", History
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6856/index.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Da Vinci
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6857/index.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Discovery Channel
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6861/index.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Discovery ID
-https://tinyurl.com/4p759wmb
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Love Nature
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6864/index.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", beIN IZ
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/19078/index.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Viasat Explorer 
-https://tinyurl.com/d8anvza4
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Viasat History 
-https://tinyurl.com/2zeyzzt7
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Habitat 
-https://tinyurl.com/uw5j4wmw 
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Tarih TV 
-https://tinyurl.com/yvwmpsxs 
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Gurme Tv 
-https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8 
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Tarım Belgesel 
-https://canlitvulusal.xyz/live/tarimtv/index.m3u8 
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", CGTN Belgesel
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8 
-
-
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", TRT Çocuk 
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", TRT Diyanet Çocuk 
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", Baby TV 
-https://saran-live.ercdn.net/babytv/index.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", Disney Junior
-https://saran-live.ercdn.net/disneyjunior/index.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", Minika Go 
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", Minika Çocuk 
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", Duck TV 
-https://jmp2.uk/sam-ESBC4700001GR.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", Cartoon Network
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6846/index.m3u8
-
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", Nicktoons
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6848/index.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", Nick Jr.
-https://tinyurl.com/4z2p3v78
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk  ", Cartoonito
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6850/index.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Sözcü 
-https://izle.canlitvapp.com/sozcu/index.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Halk TV 
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Tele 1
-https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TRT Haber 
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Haber Türk 
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV100
-https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Ülke TV 
-https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV100
-https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", NTV 
-https://dogus-live.daioncdn.net/ntv/ntv_1080p.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV 24
-https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", CNN Türk 
-https://b.fulltvizle.com/cnn/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Bloomberg HT
-https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TGRT Haber 
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Meltem TV 
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Flash Haber 
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV Net
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Türk Haber 
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Lider Haber 
-http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Gzt Haber
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Bengü Türk
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Finans Türk
-https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Üreten Türkiye
-https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TBMM - Meclis TV 
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Mavi Karadeniz 
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Olay Türk
-https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", DHA 
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w489522622.m3u8
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Ekol TV 
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", A Haber 
-https://tinyurl.com/4j6zyar8
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Akit
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", KRT
-https://tinyurl.com/bdfd84rh
-
-
-
-#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", A Para
-https://tinyurl.com/yc7a34p5
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="Arabesk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Arabesk
-https://yayin.santraltr.com/hls/arabeskyeni.m3u8
-
-
-#EXTINF:-1 tvg-name="Damar" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Damar
-https://yayin.santraltr.com/hls/damar.m3u8
-#EXTINF:-1 tvg-name="Dost" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Dost
-https://yayin.santraltr.com/hls/dost.m3u8
-#EXTINF:-1 tvg-name="Ezo" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Ezo
-https://yayin.santraltr.com/hls/ezo.m3u8
-
-i
-#EXTINF:-1 tvg-name="Power Türk Slow" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Slow
-https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Taptaze" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Taptaze
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Tv" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Tv
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="Sıla" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Sıla
-https://yayin.santraltr.com/hls/silatv.m3u8
-#EXTINF:-1 tvg-name="Viva TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Viva TV
-https://yayin.santraltr.com/hls/vivatv.m3u8
-#EXTINF:-1 tvg-name="Güçlü TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Güçlü TV
-https://yayin.santraltr.com/hls/zeynotv.m3u8
-#EXTINF:-1 tvg-name="Kral Pop" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Kral Pop
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
-#EXTINF:-1 tvg-name="Mega TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Mega TV
-https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Mavi Karadeniz" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Mavi Karadeniz
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:-1 tvg-name="PowerTürk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",PowerTürk
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8
-#EXTINF:-1 tvg-name="Tempo TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Tempo TV
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
-#EXTINF:-1 tvg-name="TopPop" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",TopPop
-https://yayin.santraltr.com/hls/toppop.m3u8
-#EXTINF:-1 tvg-name="Number1 Dance" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Number1 Dance
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Dance" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Dance
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Love" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Love
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Akustik" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Akustik
-https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TiviTürk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",TiviTürk
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-name="TRT Türkü" tvg-id="TRT Türkü.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",TRT Türkü
-https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-name="Vevo Latino (1080p)" tvg-id="VevoLatino.us@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Vevo Latino (1080p)
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="70-80 TV (1080P)" tvg-id="7080TV.it" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",70-80 TV (1080P)
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 tvg-name="NEW K-POP (1080p)" tvg-id="NEWKPOP.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",NEW K-POP (1080p)
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Afrobeats (1080p)" tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Afrobeats (1080p)
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-name="BTA TV (720p)" tvg-id="BTATV.ve" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",BTA TV (720p)
-https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-name="Muzzik POP STAR (720p)" tvg-id="POPSTAR.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik POP STAR (720p)
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Avang TV (720p)" tvg-id="AvangTV.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Avang TV (720p)
-https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Cool FM 98.9 (720p)" tvg-id="CoolFM989.aw" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Cool FM 98.9 (720p)
-https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
-#EXTINF:-1 tvg-name="Muzzik ELECTRO (720p)" tvg-id="ELECTRO.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik ELECTRO (720p)
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-#EXTINF:-1 tvg-name="Vevo Pop" tvg-id="VevoPop.us@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Vevo Pop
-https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-name="Atomic Academy TV (480p)" tvg-id="AtomicAcademyTV.ro" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Atomic Academy TV (480p)
-https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:-1 tvg-name="Number 1 Damar (720p)" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Number 1 Damar (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="Baraza TV Relaxing (720p)" tvg-id="BarazaTVRelaxing.gr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Baraza TV Relaxing (720p)
-https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1 tvg-name="Angienet TV" tvg-id="AngienetTV.pe@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Angienet TV
-https://servilive.com:3624/stream/play.m3u8
-#EXTINF:-1 tvg-name="Worldwide Muzzik (720p)" tvg-id="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Worldwide Muzzik (720p)
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik SENSE (720p)" tvg-id="SENSE.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik SENSE (720p)
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik ZZ TV (720p)" tvg-id="ZZTV.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik ZZ TV (720p)
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-name="98.1 Pearl FM (720p)" tvg-id="981PearlFM.sx" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",98.1 Pearl FM (720p)
-https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:-1 tvg-name="MTV Live" tvg-id="MTVLive.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",MTV Live
-https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-name="Muzzik FLASHBACK (720p)" tvg-id="FLASHBACK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik FLASHBACK (720p)
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 Ask (720p)" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Number 1 Ask (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Activa TV (720p)" tvg-id="ActivaTV.es" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Activa TV (720p)
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-name="California Music Channel (720p) [Not 24/7]" tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",California Music Channel (720p) [Not 24/7]
-https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik TIKTAK (720p)" tvg-id="TIKTAK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik TIKTAK (720p)
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Clubbing TV (720p)" tvg-id="ClubbingTV.us@Spain" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Clubbing TV (720p)
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Nick Music (720p)" tvg-id="NickMusic.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Nick Music (720p)
-https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-rec="3",TRT 4K TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK//4001/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Spor Yildiz HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2145/index.m3u8
-#EXTINF:0 tvg-rec="0",TRT Turk HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2281/index.m3u8
-#EXTINF:0 tvg-rec="3",A Haber TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2259/index.m3u8
-#EXTINF:0 tvg-rec="3",A2 TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2260/index.m3u8
-#EXTINF:0 tvg-rec="3",ATV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2261/index.m3u8
-#EXTINF:0 tvg-rec="3",Minika Go HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2266/index.m3u8
-#EXTINF:0 tvg-rec="3",NR1 Turk HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2267/index.m3u8
-#EXTINF:0 tvg-rec="3",Star TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2274/index.m3u8
-
-#EXTINF:0 tvg-rec="3",TV8 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2286/index.m3u8
-#EXTINF:0 tvg-rec="3",DMAX FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2290/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT 1 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2293/index.m3u8
-#EXTINF:0 tvg-rec="3",A Haber HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2294/index.m3u8
-#EXTINF:0 tvg-rec="3",ATV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2296/index.m3u8
-#EXTINF:0 tvg-rec="3",Power HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2297/index.m3u8
-#EXTINF:0 tvg-rec="3",Power Turk HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2298/index.m3u8
-#EXTINF:0 tvg-rec="3",NTV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2299/index.m3u8
-#EXTINF:0 tvg-rec="3",DMAX HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2300/index.m3u8
-#EXTINF:0 tvg-rec="3",Star TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2301/index.m3u8
-#EXTINF:0 tvg-rec="3",NTV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2302/index.m3u8
-#EXTINF:0 tvg-rec="3",Kanal D TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2304/index.m3u8
-#EXTINF:0 tvg-rec="3",CNN Turk HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2305/index.m3u8
-#EXTINF:0 tvg-rec="3",Teve2 FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2306/index.m3u8
-#EXTINF:0 tvg-rec="3",Show TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2307/index.m3u8
-#EXTINF:0 tvg-rec="3",Haber Turk FHD
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2308/index.m3u8
-#EXTINF:0 tvg-rec="3",NOW HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2309/index.m3u8
-#EXTINF:0 tvg-rec="3",Beyaz TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2310/index.m3u8
-#EXTINF:0 tvg-rec="3",Ulke TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2311/index.m3u8
-#EXTINF:0 tvg-rec="3",Bloomberg HT TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2317/index.m3u8
-#EXTINF:0 tvg-rec="3",24 TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2319/index.m3u8
-#EXTINF:0 tvg-rec="3",TV4 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2321/index.m3u8
-#EXTINF:0 tvg-rec="3",Kanal D HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2326/index.m3u8
-#EXTINF:0 tvg-rec="3",TV100 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2328/index.m3u8
-#EXTINF:0 tvg-rec="3",360 TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/2320/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Box Office 3 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6743/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Box Office 1 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6744/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Box Office 2 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6745/index.m3u8
-#EXTINF:0 tvg-rec="3",TV5 TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6751/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 41 TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6752/index.m3u8
-#EXTINF:0 tvg-rec="3",TV4 TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6753/index.m3u8
-#EXTINF:0 tvg-rec="3",Line TV Bursa TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6759/index.m3u8
-#EXTINF:0 tvg-rec="3",Kibris Genc TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6762/index.m3u8
-#EXTINF:0 tvg-rec="3",Kardelen TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6763/index.m3u8
-#EXTINF:0 tvg-rec="3",Kanal Avrupa TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6766/index.m3u8
-#EXTINF:0 tvg-rec="3",ER TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6768/index.m3u8
-#EXTINF:0 tvg-rec="3",DeHa TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6771/index.m3u8
-#EXTINF:0 tvg-rec="3",Ciftci TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6772/index.m3u8
-#EXTINF:0 tvg-rec="3",BRT 3 TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6774/index.m3u8
-#EXTINF:0 tvg-rec="3",BRT 2 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6775/index.m3u8
-#EXTINF:0 tvg-rec="3",BRTV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6776/index.m3u8
-#EXTINF:0 tvg-rec="3",AS TV Bursa TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6777/index.m3u8
-#EXTINF:0 tvg-rec="3",Anadolu Dernek TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6778/index.m3u8
-#EXTINF:0 tvg-rec="3",Akit TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6780/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Sports 1 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6781/index.m3u8
-#EXTINF:0 tvg-rec="3",Ucankus TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6785/index.m3u8
-#EXTINF:0 tvg-rec="3",TV Kayseri TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6786/index.m3u8
-#EXTINF:0 tvg-rec="3",Yaban HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6787/index.m3u8
-#EXTINF:0 tvg-rec="3",FM TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6789/index.m3u8
-#EXTINF:0 tvg-rec="3",Lalegul TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6790/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 2000 TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6791/index.m3u8
-#EXTINF:0 tvg-rec="3",Meltem TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6792/index.m3u8
-#EXTINF:0 tvg-rec="3",Dost TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6793/index.m3u8
-#EXTINF:0 tvg-rec="3",TGRT Haber HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6796/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Turk TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6798/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Avaz TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6799/index.m3u8
-#EXTINF:0 tvg-rec="3",DiziSmart Premium HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6802/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Gurme HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6804/index.m3u8
-#EXTINF:0 tvg-rec="3",Sinema TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6806/index.m3u8
-#EXTINF:0 tvg-rec="3",Movie Smart Turk TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6807/index.m3u8
-#EXTINF:0 tvg-rec="3",Movie Smart Classic HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6811/index.m3u8
-#EXTINF:0 tvg-rec="3",Movie Smart Action TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6812/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Series Vice TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6813/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Series 2 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6814/index.m3u8
-#EXTINF:0 tvg-rec="3",Tivibu Spor 2 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6816/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Sports 1 FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6817/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Sports 2 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6818/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Sports 2 FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6819/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Sports 3 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6820/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Sports 3 FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6821/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Sports 4 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6822/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Sports 4 FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6823/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Sports Max 1 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6824/index.m3u8
-#EXTINF:0 tvg-rec="3",S Sport HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6825/index.m3u8
-#EXTINF:0 tvg-rec="3",Sports TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6828/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 1 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6829/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6830/index.m3u8
-#EXTINF:0 tvg-rec="3",A Spor TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6832/index.m3u8
-#EXTINF:0 tvg-rec="3",Galatasaray TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6834/index.m3u8
-#EXTINF:0 tvg-rec="3",TJK TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6837/index.m3u8
-#EXTINF:0 tvg-rec="3",NBA TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6838/index.m3u8
-#EXTINF:0 tvg-rec="3",Idman TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6840/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Cocuk HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6841/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney Jr. HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6842/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney Jr. TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6843/index.m3u8
-#EXTINF:0 tvg-rec="3",Baby TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6845/index.m3u8
-#EXTINF:0 tvg-rec="3",Cartoon Network TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6846/index.m3u8
-#EXTINF:0 tvg-rec="3",Nickelodeon HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6848/index.m3u8
-#EXTINF:0 tvg-rec="3",Minika Cocuk TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6849/index.m3u8
-#EXTINF:0 tvg-rec="3",Cartoonito HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6850/index.m3u8
-#EXTINF:0 tvg-rec="3",Minika Go TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6851/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Belgesel TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6852/index.m3u8
-#EXTINF:0 tvg-rec="3",24 Kitchen HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6853/index.m3u8
-#EXTINF:0 tvg-rec="3",BBC Earth HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6854/index.m3u8
-
-
-#EXTINF:0 tvg-rec="3",BBC Earth TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6855/index.m3u8
-#EXTINF:0 tvg-rec="3",History HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6856/index.m3u8
-#EXTINF:0 tvg-rec="3",Da Vinci HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6857/index.m3u8
-#EXTINF:0 tvg-rec="3",Animal Planet HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6858/index.m3u8
-#EXTINF:0 tvg-rec="3",Animal Planet TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6859/index.m3u8
-#EXTINF:0 tvg-rec="3",TGRT Belgesel TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6860/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6861/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6863/index.m3u8
-#EXTINF:0 tvg-rec="3",Love Nature HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6864/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6866/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6867/index.m3u8
-#EXTINF:0 tvg-rec="3",Yaban TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6868/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Muzik TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6869/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Muzik HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6870/index.m3u8
-#EXTINF:0 tvg-rec="3",Tatlises TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6872/index.m3u8
-#EXTINF:0 tvg-rec="3",Dream Turk HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6873/index.m3u8
-#EXTINF:0 tvg-rec="3",NR1 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6874/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Movies Action HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6877/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Movies Family HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6878/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Movies Premiere 2 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6879/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Movies Premiere HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6880/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Series Comedy HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6881/index.m3u8
-#EXTINF:0 tvg-rec="3",beIN Series Drama HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6882/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT 1 FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6883/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT 2 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6884/index.m3u8
-#EXTINF:0 tvg-rec="3",ATV Avrupa TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6888/index.m3u8
-#EXTINF:0 tvg-rec="3",Show TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6889/index.m3u8
-#EXTINF:0 tvg-rec="3",Show Max TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6890/index.m3u8
-#EXTINF:0 tvg-rec="3",Euro D TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6892/index.m3u8
-#EXTINF:0 tvg-rec="3",Star TV FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6893/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurostar TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6894/index.m3u8
-#EXTINF:0 tvg-rec="3",TV8 FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6896/index.m3u8
-#EXTINF:0 tvg-rec="3",TV8 Int HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6897/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 8.5 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6898/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 8.5 FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6899/index.m3u8
-#EXTINF:0 tvg-rec="3",Kanal 7 FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6903/index.m3u8
-#EXTINF:0 tvg-rec="3",Kanal 7 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6904/index.m3u8
-#EXTINF:0 tvg-rec="3",Kanal 7 Avrupa HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6905/index.m3u8
-#EXTINF:0 tvg-rec="3",Beyaz TV FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6906/index.m3u8
-#EXTINF:0 tvg-rec="3",Beyaz TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6907/index.m3u8
-#EXTINF:0 tvg-rec="3",A2 TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6908/index.m3u8
-#EXTINF:0 tvg-rec="3",A Para HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6909/index.m3u8
-#EXTINF:0 tvg-rec="3",Teve2 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6910/index.m3u8
-#EXTINF:0 tvg-rec="3",TLC HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6914/index.m3u8
-#EXTINF:0 tvg-rec="3",TLC TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6915/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Eba TV Ilkokul HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6916/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Eba TV Ilkokul TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6917/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Eba TV Lise HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6918/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Eba TV Lise TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6919/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Eba TV Ortaokul HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6920/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT Haber HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6921/index.m3u8
-#EXTINF:0 tvg-rec="3",A Haber FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6923/index.m3u8
-#EXTINF:0 tvg-rec="3",NTV FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6924/index.m3u8
-#EXTINF:0 tvg-rec="3",CNN Turk FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6926/index.m3u8
-#EXTINF:0 tvg-rec="3",Haber Turk HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6927/index.m3u8
-#EXTINF:0 tvg-rec="3",Haber Global TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6928/index.m3u8
-#EXTINF:0 tvg-rec="3",Tele1 HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6930/index.m3u8
-#EXTINF:0 tvg-rec="3",Ulusal Kanal TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6931/index.m3u8
-#EXTINF:0 tvg-rec="3",TGRT Haber FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6932/index.m3u8
-#EXTINF:0 tvg-rec="3",Ulke TV FHD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6934/index.m3u8
-#EXTINF:0 tvg-rec="3",TVNET HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6936/index.m3u8
-#EXTINF:0 tvg-rec="3",A News HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6937/index.m3u8
-#EXTINF:0 tvg-rec="0",Kanal V TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/15252/index.m3u8
-#EXTINF:0 tvg-rec="0",Kocaeli TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/15253/index.m3u8
-#EXTINF:0 tvg-rec="0",KRT TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/15255/index.m3u8
-#EXTINF:0 tvg-rec="0",Rumeli TV TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/15256/index.m3u8
-#EXTINF:0 tvg-rec="0",Cay TV HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/15257/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN IZ TV HD
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/19078/index.m3u8
-#EXTINF:0 tvg-rec="0",BİZİM EV TV
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/31151/index.m3u8
-#EXTINF:0 tvg-rec="0",Epic Drama HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/31173/index.m3u8
-#EXTINF:0 tvg-rec="0",NBA TV USA HD TR
-#EXTGRP:Play Tv | Türk
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/31209/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Play TV Sinema 
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Annem Ankara
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Arka Sokaklar
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Aşk Evlilik Boşanma
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bahar
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Başka Bir Gün
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bir Gece Masalı
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bir Zamanlar Istanbul
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Zamanlar.Istanbul.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Can Borcu
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Can.Borcu.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Deha
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Esref Rüya
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Gizli Bahçe
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gizli.Bahce.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Gönül Dağı
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Güldür Güldür Show 
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Holding
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Holding.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Hudutsuz Sevda
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Hudutsuz.Sevda.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",İnci Taneleri 
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Inci.Taneleri.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Uzak Şehir
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kalpazan
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kalpazan.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kardelenler
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kardelenler.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Konuşanlar
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Konusanlar.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kral Kabederse
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kudüs Fatihi Selahaddin Eyyubi
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kuruluş Osman
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Leyla
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Leyla.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Mehmed Fetihler Sultanı
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Piyasa
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Sahipsizler
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Sandık Kokusu
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Selahaddin Eyyubi
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Siyah Kalp
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Siyah.Kalp.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Sustalı Ceylan
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sustali.Ceylan.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Teşkilat
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Yalan
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Yalı Çapkını
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Zembilli
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
 
 #EXTINF:0 tvg-rec="3",PLAY TV | beIN Sports 1 FHD
@@ -1268,7 +217,6 @@ https://deneme123.parisiptv1.workers.dev/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-rec="3",PLAY TV | beIN Sports 1 HD
 #EXTGRP:Play Tv | Play Sports (Özel)
 https://deneme123.parisiptv1.workers.dev/Bein-Sport-1-HD/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:0 tvg-rec="3",PLAY TV | beIN Sports 2 FHD
@@ -1357,6 +305,10 @@ https://deneme123.parisiptv1.workers.dev/ssportplus6/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-rec="3",PLAY TV | Exxen 1
 #EXTGRP:Play Tv | Play Sports (Özel)
 https://deneme123.parisiptv1.workers.dev/ex1/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
 #EXTINF:0 tvg-rec="3",PLAY TV | Exxen 2
@@ -1496,6 +448,523 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Tabii Spor  ", Tabii Spor 7
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1080p.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", TRT Belgesel 
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Dmax 
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", TLC 
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", TGRT Belgesel 
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Çiftçi Tv
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Yaban Tv
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", National Geographic 
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", National Geographic Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", beIN Gurme
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6804/index.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", BBC Earth 
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6854/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", History
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6856/index.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Da Vinci
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6857/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Discovery Channel
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6861/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Discovery ID
+https://tinyurl.com/4p759wmb
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Love Nature
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6864/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", beIN IZ
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/19078/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Viasat Explorer 
+https://tinyurl.com/d8anvza4
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Viasat History
+https://tinyurl.com/2zeyzzt7 
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Habitat 
+https://tinyurl.com/uw5j4wmw 
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Tarih TV 
+https://tinyurl.com/yvwmpsxs 
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Gurme Tv 
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8 
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", Tarım Belgesel 
+https://canlitvulusal.xyz/live/tarimtv/index.m3u8 
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Belgesel ", CGTN Belgesel
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8 
+
+
+
+
+#EXTINF:1 tvg-id="Play Tv" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Play Tv" group-title="Play Tv | Sinema", Play Tv
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+
+
+
+#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", Tabii Tv
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", TRT Nostalji 
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", Fx
+https://saran-live.ercdn.net/fx/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 1" group-title="Play Tv | Sinema", beIN Box Office 1
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6744/index.m3u8
+
+
+#EXTINF:1 tvg-id="beIN Box Office 2" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 2" group-title="Play Tv | Sinema", beIN Box Office 2
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6745/index.m3u8
+
+
+#EXTINF:1 tvg-id="beIN Box Office 3" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 3" group-title="Play Tv | Sinema", beIN Box Office 3
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6743/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series 1
+https://tinyurl.com/ycy3wnu3
+
+
+
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 2
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6814/index.m3u8
+
+
+
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 3
+https://tinyurl.com/3utjxv67
+
+
+
+
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 4
+https://tinyurl.com/2vny9243
+
+
+
+
+
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series Comedy 
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6881/index.m3u8
+
+
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series Drama 
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6882/index.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Action
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6877/index.m3u8
+
+
+#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Movies Action 2
+https://tinyurl.com/47nj4vvs
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Family
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6878/index.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Premiere
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6880/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Premiere 2
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6879/index.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Stars
+https://tinyurl.com/5ect5tkj
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Türk 
+https://tinyurl.com/mr7wfnzm
+
+
+
+
+
+
+
+#EXTINF:1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="DiziSmart Premium" group-title="Play Tv | Sinema", DiziSmart Premium 
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6802/index.m3u8
+
+
+#EXTINF:1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="DiziSmart Max" group-title="Play Tv | Sinema", DiziSmart Max 
+https://tinyurl.com/5n7txspm
+
+
+
+#EXTINF:1 tvg-id="Sinema TV" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Sinema TV" group-title="Play Tv | Sinema", Sinema TV 
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6806/index.m3u8
+
+#EXTINF:1 tvg-id="Sinema TV" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Sinema TV" group-title="Play Tv | Sinema", Sinema Aksiyon 2
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6812/index.m3u8
+
+
+#EXTINF:1 tvg-id="Movie Smart Turk " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Turk " group-title="Play Tv | Sinema", Movie Smart Turk 
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6807/index.m3u8
+
+
+
+#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", Movie Smart Classic 
+https://tinyurl.com/44eetvrj
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Sözcü 
+https://izle.canlitvapp.com/sozcu/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Halk TV 
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Tele 1
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TRT Haber 
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Haber Türk 
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Ülke TV 
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", NTV 
+https://dogus-live.daioncdn.net/ntv/ntv_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", CNN Türk 
+https://b.fulltvizle.com/cnn/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TGRT Haber 
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Meltem TV 
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Flash Haber 
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV Net
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Türk Haber 
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Lider Haber 
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Gzt Haber
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Bengü Türk
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Finans Türk
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Üreten Türkiye
+https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TBMM - Meclis TV 
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Mavi Karadeniz 
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Olay Türk
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", DHA 
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w489522622.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Ekol TV 
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", A Haber 
+https://b.fulltvizle.com/ahaber/playlist.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Akit
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", KRT
+https://tinyurl.com/bdfd84rh
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", A Para
+https://tinyurl.com/yc7a34p5
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", TRT Çocuk 
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", TRT Diyanet Çocuk 
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", Baby TV 
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", Disney Junior
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", Minika Go 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", Minika Çocuk 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk", Duck TV 
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", Cartoon Network
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6846/index.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", Nicktoons
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6848/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk ", Nick Jr.
+https://tinyurl.com/4z2p3v78
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Çocuk  ", Cartoonito
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6850/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Arabesk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Arabesk
+https://yayin.santraltr.com/hls/arabeskyeni.m3u8
+
+
+#EXTINF:-1 tvg-name="Damar" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Damar
+https://yayin.santraltr.com/hls/damar.m3u8
+#EXTINF:-1 tvg-name="Dost" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Dost
+https://yayin.santraltr.com/hls/dost.m3u8
+#EXTINF:-1 tvg-name="Ezo" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Ezo
+https://yayin.santraltr.com/hls/ezo.m3u8
+
+i
+#EXTINF:-1 tvg-name="Power Türk Slow" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Türk Taptaze" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Taptaze
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Tv" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Tv
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Sıla" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Sıla
+https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTINF:-1 tvg-name="Viva TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Viva TV
+https://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:-1 tvg-name="Güçlü TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Güçlü TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 tvg-name="Kral Pop" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+#EXTINF:-1 tvg-name="Mega TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Mega TV
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Mavi Karadeniz" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Mavi Karadeniz
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 tvg-name="PowerTürk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",PowerTürk
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8
+#EXTINF:-1 tvg-name="Tempo TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+#EXTINF:-1 tvg-name="TopPop" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",TopPop
+https://yayin.santraltr.com/hls/toppop.m3u8
+#EXTINF:-1 tvg-name="Number1 Dance" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Number1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Türk Dance" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Türk Love" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Türk Akustik" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TiviTürk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",TiviTürk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-name="TRT Türkü" tvg-id="TRT Türkü.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",TRT Türkü
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-name="Vevo Latino (1080p)" tvg-id="VevoLatino.us@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Vevo Latino (1080p)
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="70-80 TV (1080P)" tvg-id="7080TV.it" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",70-80 TV (1080P)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-name="NEW K-POP (1080p)" tvg-id="NEWKPOP.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",NEW K-POP (1080p)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Afrobeats (1080p)" tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-name="BTA TV (720p)" tvg-id="BTATV.ve" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",BTA TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-name="Muzzik POP STAR (720p)" tvg-id="POPSTAR.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik POP STAR (720p)
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-name="Avang TV (720p)" tvg-id="AvangTV.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Avang TV (720p)
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Cool FM 98.9 (720p)" tvg-id="CoolFM989.aw" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Cool FM 98.9 (720p)
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 tvg-name="Muzzik ELECTRO (720p)" tvg-id="ELECTRO.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik ELECTRO (720p)
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-id="VevoPop.us@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Vevo Pop
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-name="Atomic Academy TV (480p)" tvg-id="AtomicAcademyTV.ro" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-name="Number 1 Damar (720p)" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Number 1 Damar (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Baraza TV Relaxing (720p)" tvg-id="BarazaTVRelaxing.gr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Baraza TV Relaxing (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-name="Angienet TV" tvg-id="AngienetTV.pe@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Angienet TV
+https://servilive.com:3624/stream/play.m3u8
+#EXTINF:-1 tvg-name="Worldwide Muzzik (720p)" tvg-id="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Worldwide Muzzik (720p)
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik SENSE (720p)" tvg-id="SENSE.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik SENSE (720p)
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik ZZ TV (720p)" tvg-id="ZZTV.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik ZZ TV (720p)
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-name="98.1 Pearl FM (720p)" tvg-id="981PearlFM.sx" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",98.1 Pearl FM (720p)
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-name="MTV Live" tvg-id="MTVLive.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",MTV Live
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="Muzzik FLASHBACK (720p)" tvg-id="FLASHBACK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik FLASHBACK (720p)
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 Ask (720p)" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Activa TV (720p)" tvg-id="ActivaTV.es" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-name="California Music Channel (720p) [Not 24/7]" tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",California Music Channel (720p) [Not 24/7]
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik TIKTAK (720p)" tvg-id="TIKTAK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik TIKTAK (720p)
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Clubbing TV (720p)" tvg-id="ClubbingTV.us@Spain" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Clubbing TV (720p)
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Nick Music (720p)" tvg-id="NickMusic.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Nick Music (720p)
+https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 
 
@@ -1730,7 +1199,6 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/19019/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Nature HD DE
 #EXTGRP:Play Tv | Germany
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/19020/index.m3u8
-
 
 #EXTINF:0 tvg-rec="0",Sky Documentaries HD DE
 #EXTGRP:Play Tv | Germany
@@ -2142,8 +1610,6 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/31433/index.m3u8
 #EXTGRP:Play Tv | Germany
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/31434/index.m3u8
 
-
-
 #EXTINF:0 tvg-rec="0",WDR HD (Köln) DE
 #EXTGRP:Play Tv | Germany
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/31436/index.m3u8
@@ -2323,8 +1789,6 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/11109/index.m3u8
 #EXTINF:0 tvg-rec="0",A&E HD US
 #EXTGRP:Play Tv  | USA
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/30001/index.m3u8
-
-
 
 #EXTINF:0 tvg-rec="0",American Heroes Channel HD US
 #EXTGRP:Play Tv  | USA
