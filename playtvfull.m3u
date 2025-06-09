@@ -357,39 +357,32 @@ https://deneme123.parisiptv1.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0 tvg-rec="3", | beIN Sports 1
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 1
 https://21heytv.com/701/mono.m3u8|Referer=https://yakatv4.live/
 
 
 
-#EXTINF:0 tvg-rec="3", beIN Sports 2
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 2
 https://21heytv.com/702/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
 
-#EXTINF:0 tvg-rec="3", beIN Sports 3
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 3
 https://21heytv.com/703/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
 
 
-#EXTINF:0 tvg-rec="3", beIN Sports 4
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 4
 https://21heytv.com/704/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
 
-#EXTINF:0 tvg-rec="3", beIN Sports 5
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 5  
 https://21heytv.com/7050/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
-#EXTINF:0 tvg-rec="3", beIN Sports Max 1
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", beIN Sports Max 1
 https://21heytv.com/716/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
 
-#EXTINF:0 tvg-rec="3", beIN Sports Max 2
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", beIN Sports Max 2
 https://21heytv.com/717/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
 
@@ -397,65 +390,59 @@ https://21heytv.com/717/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
 
 
-#EXTINF:0 tvg-rec="3", S Sport 
-#EXTGRP:Play Tv | Play Sports Liste 2  
+
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", S Sport 
 https://21heytv.com/705/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
 
-#EXTINF:0 tvg-rec="3", S Sport 
-#EXTGRP:Play Tv | Play Sports Liste 2  
-https://21heytv.com/705/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
-
-
-#EXTINF:0 tvg-rec="3", Tivibu Spor 1
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", Tivibu Spor 1
 https://21heytv.com/708/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
-#EXTINF:0 tvg-rec="3", Tivibu Spor 2
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", Tivibu Spor 2 
 https://21heytv.com/711/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
 
-#EXTINF:0 tvg-rec="3", Tivibu Spor 3
-#EXTGRP:Play Tv | Play Sports Liste 2  
+#EXTINF:-1 group-title="Play Tv | Play Sports Liste 2 ", Tivibu Spor 3
 https://21heytv.com/712/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
 
 
 
-#EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Tabii Spor  ", Tabii Spor 
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 
 
-#EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Tabii Spor  ", Tabii Spor 1
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 1
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Tabii Spor  ", Tabii Spor 2
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 2
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
 
 
-#EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Tabii Spor  ", Tabii Spor 3
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 3
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
 
 
 
 
-#EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Tabii Spor  ", Tabii Spor 4
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 4
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Tabii Spor  ", Tabii Spor 5
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 
 
-#EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Tabii Spor  ", Tabii Spor 6
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 
 
-#EXTINF:-1 tvg-name="tabii" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Tabii Spor  ", Tabii Spor 7
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 7
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1080p.m3u8
+
+
 
 
 
