@@ -18,3 +18,31 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="Play Tv | Ulusal",ATV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",ATV HD Yedek
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",ATV Avrupa
+http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal", Star TV 
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal", Euro Star 
+https://canlitvulusal.xyz/live/eurostar/index.m3u8
+
+
