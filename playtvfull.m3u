@@ -603,106 +603,104 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 
 
-#EXTINF:1 tvg-id="Play Tv" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Play Tv" group-title="Play Tv | Sinema", Play Tv
+#EXTINF:-1 group-title="Play Tv | Sinema", Play Tv
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 
 
-#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", Tabii Tv
+#EXTINF:-1 group-title="Play Tv | Sinema", Tabii Tv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
-#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", TRT Nostalji 
+#EXTINF:-1 group-title="Play Tv | Sinema", TRT Nostalji 
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
 
 
 
-#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Sinema", Fx
+#EXTINF:-1 group-title="Play Tv | Sinema", Fx
 https://saran-live.ercdn.net/fx/index.m3u8
 
 
 
-#EXTINF:1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 1" group-title="Play Tv | Sinema", beIN Box Office 1
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Box Office 1
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6744/index.m3u8
 
 
-#EXTINF:1 tvg-id="beIN Box Office 2" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 2" group-title="Play Tv | Sinema", beIN Box Office 2
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Box Office 2
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6745/index.m3u8
 
 
-#EXTINF:1 tvg-id="beIN Box Office 3" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="beIN Box Office 3" group-title="Play Tv | Sinema", beIN Box Office 3
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Box Office 3
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6743/index.m3u8
 
 
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series 1
+#EXTINF:-1 group-title="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series 1
 https://tinyurl.com/ycy3wnu3
 
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 2
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series 2
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6814/index.m3u8
 
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 3
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series 3
 https://tinyurl.com/3utjxv67
 
 
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series 4
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series 4
 https://tinyurl.com/2vny9243
 
 
 
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Series Comedy 
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series Comedy 
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6881/index.m3u8
 
 
 
 
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Series Drama 
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series Drama 
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6882/index.m3u8
 
 
 
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Action
+#EXTINF:-1 group-title=""Play Tv | Sinema", beIN Movies Action
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6877/index.m3u8
 
 
-#EXTINF:1 tvg-id=" " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name=" " group-title="Play Tv | Sinema", beIN Movies Action 2
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Action 2
 https://tinyurl.com/47nj4vvs
 
 
-
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Family
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Family
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6878/index.m3u8
 
 
 
-
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Premiere
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Premiere
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6880/index.m3u8
 
 
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Premiere 2
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Premiere 2
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6879/index.m3u8
 
 
 
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Stars
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Stars
 https://tinyurl.com/5ect5tkj
 
 
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", beIN Movies Türk 
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Türk 
 https://tinyurl.com/mr7wfnzm
 
 
@@ -711,29 +709,30 @@ https://tinyurl.com/mr7wfnzm
 
 
 
-#EXTINF:1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="DiziSmart Premium" group-title="Play Tv | Sinema", DiziSmart Premium 
+#EXTINF:-1 group-title="Play Tv | Sinema", DiziSmart Premium 
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6802/index.m3u8
 
 
-#EXTINF:1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="DiziSmart Max" group-title="Play Tv | Sinema", DiziSmart Max 
+#EXTINF:-1 group-title="Play Tv | Sinema", DiziSmart Max 
 https://tinyurl.com/5n7txspm
 
 
 
-#EXTINF:1 tvg-id="Sinema TV" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Sinema TV" group-title="Play Tv | Sinema", Sinema TV 
+#EXTINF:-1 group-title="Play Tv | Sinema", Sinema TV 
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6806/index.m3u8
 
-#EXTINF:1 tvg-id="Sinema TV" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Sinema TV" group-title="Play Tv | Sinema", Sinema Aksiyon 2
+#EXTINF:-1 group-title="Play Tv | Sinema", Sinema Aksiyon 2
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6812/index.m3u8
 
 
-#EXTINF:1 tvg-id="Movie Smart Turk " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Turk " group-title="Play Tv | Sinema", Movie Smart Turk 
+#EXTINF:-1 group-title="Play Tv | Sinema", Movie Smart Turk 
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6807/index.m3u8
 
 
 
-#EXTINF:1 tvg-id="Movie Smart Classic " tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="Movie Smart Classic " group-title="Play Tv | Sinema", Movie Smart Classic 
+#EXTINF:-1 group-title="Play Tv | Sinema", Movie Smart Classic 
 https://tinyurl.com/44eetvrj
+
 
 
 #EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Sözcü 
