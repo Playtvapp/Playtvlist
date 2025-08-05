@@ -1,46 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Play Tv | Ulusal",PLAY TV
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 group-title="Sinema",PLAY Netflix 
+http://iptv3.tjurkx.com/live/yave8d6o9/wb9CmFMY/76046.m3u8
 
 
-
-#EXTINF:-1 group-title="Play Tv | Ulusal",TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-
-#EXTINF:-1 group-title="Play Tv | Ulusal",TRT 2 HD 
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-
-
-#EXTINF:-1 group-title="Play Tv | Ulusal",ATV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-
-
-#EXTINF:-1 group-title="Play Tv | Ulusal",ATV HD Yedek
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-
-
-#EXTINF:-1 group-title="Play Tv | Ulusal",ATV Avrupa
-http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Play Tv | Ulusal",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-
-
-#EXTINF:-1 group-title="Play Tv | Ulusal",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Play Tv | Ulusal", Star TV 
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-
-
-#EXTINF:-1 group-title="Play Tv | Ulusal", Euro Star 
-https://canlitvulusal.xyz/live/eurostar/index.m3u8
-
+#EXTINF:-1 group-title="Sinema",PLAY Netflix 
+http://iptv3.tjurkx.com/live/yave8d6o9/wb9CmFMY/76047.m3u8
 
